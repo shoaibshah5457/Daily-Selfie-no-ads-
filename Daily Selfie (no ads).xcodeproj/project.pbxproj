@@ -1,0 +1,580 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		735D0A112CFCF69600594E9A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 735D09F42CFCF69400594E9A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 735D09FB2CFCF69400594E9A;
+			remoteInfo = "Daily Selfie (no ads)";
+		};
+		735D0A1B2CFCF69600594E9A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 735D09F42CFCF69400594E9A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 735D09FB2CFCF69400594E9A;
+			remoteInfo = "Daily Selfie (no ads)";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		735D09FC2CFCF69400594E9A /* Daily Selfie (no ads).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Daily Selfie (no ads).app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		735D0A102CFCF69600594E9A /* Daily Selfie (no ads)Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Daily Selfie (no ads)Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		735D0A1A2CFCF69600594E9A /* Daily Selfie (no ads)UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Daily Selfie (no ads)UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		735D0A222CFCF69600594E9A /* Exceptions for "Daily Selfie (no ads)" folder in "Daily Selfie (no ads)" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 735D09FB2CFCF69400594E9A /* Daily Selfie (no ads) */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		735D09FE2CFCF69400594E9A /* Daily Selfie (no ads) */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				735D0A222CFCF69600594E9A /* Exceptions for "Daily Selfie (no ads)" folder in "Daily Selfie (no ads)" target */,
+			);
+			path = "Daily Selfie (no ads)";
+			sourceTree = "<group>";
+		};
+		735D0A132CFCF69600594E9A /* Daily Selfie (no ads)Tests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Daily Selfie (no ads)Tests";
+			sourceTree = "<group>";
+		};
+		735D0A1D2CFCF69600594E9A /* Daily Selfie (no ads)UITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Daily Selfie (no ads)UITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		735D09F92CFCF69400594E9A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		735D0A0D2CFCF69600594E9A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		735D0A172CFCF69600594E9A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		735D09F32CFCF69400594E9A = {
+			isa = PBXGroup;
+			children = (
+				735D09FE2CFCF69400594E9A /* Daily Selfie (no ads) */,
+				735D0A132CFCF69600594E9A /* Daily Selfie (no ads)Tests */,
+				735D0A1D2CFCF69600594E9A /* Daily Selfie (no ads)UITests */,
+				735D09FD2CFCF69400594E9A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		735D09FD2CFCF69400594E9A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				735D09FC2CFCF69400594E9A /* Daily Selfie (no ads).app */,
+				735D0A102CFCF69600594E9A /* Daily Selfie (no ads)Tests.xctest */,
+				735D0A1A2CFCF69600594E9A /* Daily Selfie (no ads)UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		735D09FB2CFCF69400594E9A /* Daily Selfie (no ads) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 735D0A232CFCF69600594E9A /* Build configuration list for PBXNativeTarget "Daily Selfie (no ads)" */;
+			buildPhases = (
+				735D09F82CFCF69400594E9A /* Sources */,
+				735D09F92CFCF69400594E9A /* Frameworks */,
+				735D09FA2CFCF69400594E9A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				735D09FE2CFCF69400594E9A /* Daily Selfie (no ads) */,
+			);
+			name = "Daily Selfie (no ads)";
+			packageProductDependencies = (
+			);
+			productName = "Daily Selfie (no ads)";
+			productReference = 735D09FC2CFCF69400594E9A /* Daily Selfie (no ads).app */;
+			productType = "com.apple.product-type.application";
+		};
+		735D0A0F2CFCF69600594E9A /* Daily Selfie (no ads)Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 735D0A282CFCF69600594E9A /* Build configuration list for PBXNativeTarget "Daily Selfie (no ads)Tests" */;
+			buildPhases = (
+				735D0A0C2CFCF69600594E9A /* Sources */,
+				735D0A0D2CFCF69600594E9A /* Frameworks */,
+				735D0A0E2CFCF69600594E9A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				735D0A122CFCF69600594E9A /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				735D0A132CFCF69600594E9A /* Daily Selfie (no ads)Tests */,
+			);
+			name = "Daily Selfie (no ads)Tests";
+			packageProductDependencies = (
+			);
+			productName = "Daily Selfie (no ads)Tests";
+			productReference = 735D0A102CFCF69600594E9A /* Daily Selfie (no ads)Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		735D0A192CFCF69600594E9A /* Daily Selfie (no ads)UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 735D0A2B2CFCF69600594E9A /* Build configuration list for PBXNativeTarget "Daily Selfie (no ads)UITests" */;
+			buildPhases = (
+				735D0A162CFCF69600594E9A /* Sources */,
+				735D0A172CFCF69600594E9A /* Frameworks */,
+				735D0A182CFCF69600594E9A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				735D0A1C2CFCF69600594E9A /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				735D0A1D2CFCF69600594E9A /* Daily Selfie (no ads)UITests */,
+			);
+			name = "Daily Selfie (no ads)UITests";
+			packageProductDependencies = (
+			);
+			productName = "Daily Selfie (no ads)UITests";
+			productReference = 735D0A1A2CFCF69600594E9A /* Daily Selfie (no ads)UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		735D09F42CFCF69400594E9A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1610;
+				LastUpgradeCheck = 1610;
+				TargetAttributes = {
+					735D09FB2CFCF69400594E9A = {
+						CreatedOnToolsVersion = 16.1;
+					};
+					735D0A0F2CFCF69600594E9A = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = 735D09FB2CFCF69400594E9A;
+					};
+					735D0A192CFCF69600594E9A = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = 735D09FB2CFCF69400594E9A;
+					};
+				};
+			};
+			buildConfigurationList = 735D09F72CFCF69400594E9A /* Build configuration list for PBXProject "Daily Selfie (no ads)" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 735D09F32CFCF69400594E9A;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 735D09FD2CFCF69400594E9A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				735D09FB2CFCF69400594E9A /* Daily Selfie (no ads) */,
+				735D0A0F2CFCF69600594E9A /* Daily Selfie (no ads)Tests */,
+				735D0A192CFCF69600594E9A /* Daily Selfie (no ads)UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		735D09FA2CFCF69400594E9A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		735D0A0E2CFCF69600594E9A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		735D0A182CFCF69600594E9A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		735D09F82CFCF69400594E9A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		735D0A0C2CFCF69600594E9A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		735D0A162CFCF69600594E9A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		735D0A122CFCF69600594E9A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 735D09FB2CFCF69400594E9A /* Daily Selfie (no ads) */;
+			targetProxy = 735D0A112CFCF69600594E9A /* PBXContainerItemProxy */;
+		};
+		735D0A1C2CFCF69600594E9A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 735D09FB2CFCF69400594E9A /* Daily Selfie (no ads) */;
+			targetProxy = 735D0A1B2CFCF69600594E9A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		735D0A242CFCF69600594E9A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Daily Selfie (no ads)/Daily_Selfie__no_ads_.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Daily Selfie (no ads)/Preview Content\"";
+				DEVELOPMENT_TEAM = ZBGJHJ4356;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Daily Selfie (no ads)/Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.shah.Daily-Selfie--no-ads-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		735D0A252CFCF69600594E9A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Daily Selfie (no ads)/Daily_Selfie__no_ads_.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Daily Selfie (no ads)/Preview Content\"";
+				DEVELOPMENT_TEAM = ZBGJHJ4356;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Daily Selfie (no ads)/Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.shah.Daily-Selfie--no-ads-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		735D0A262CFCF69600594E9A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		735D0A272CFCF69600594E9A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		735D0A292CFCF69600594E9A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = ZBGJHJ4356;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.shah.Daily-Selfie--no-ads-Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Daily Selfie (no ads).app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Daily Selfie (no ads)";
+			};
+			name = Debug;
+		};
+		735D0A2A2CFCF69600594E9A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = ZBGJHJ4356;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.shah.Daily-Selfie--no-ads-Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Daily Selfie (no ads).app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Daily Selfie (no ads)";
+			};
+			name = Release;
+		};
+		735D0A2C2CFCF69600594E9A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = ZBGJHJ4356;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.shah.Daily-Selfie--no-ads-UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Daily Selfie (no ads)";
+			};
+			name = Debug;
+		};
+		735D0A2D2CFCF69600594E9A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = ZBGJHJ4356;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.shah.Daily-Selfie--no-ads-UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Daily Selfie (no ads)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		735D09F72CFCF69400594E9A /* Build configuration list for PBXProject "Daily Selfie (no ads)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				735D0A262CFCF69600594E9A /* Debug */,
+				735D0A272CFCF69600594E9A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		735D0A232CFCF69600594E9A /* Build configuration list for PBXNativeTarget "Daily Selfie (no ads)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				735D0A242CFCF69600594E9A /* Debug */,
+				735D0A252CFCF69600594E9A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		735D0A282CFCF69600594E9A /* Build configuration list for PBXNativeTarget "Daily Selfie (no ads)Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				735D0A292CFCF69600594E9A /* Debug */,
+				735D0A2A2CFCF69600594E9A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		735D0A2B2CFCF69600594E9A /* Build configuration list for PBXNativeTarget "Daily Selfie (no ads)UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				735D0A2C2CFCF69600594E9A /* Debug */,
+				735D0A2D2CFCF69600594E9A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 735D09F42CFCF69400594E9A /* Project object */;
+}
